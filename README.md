@@ -1,6 +1,6 @@
--  Hi, I’m @Cerda-CruzStanlie
--  Embry-Ridd
--  I’m currently learning Python
+-  @Cerda-CruzStanlie
+-  Embry-Riddle
+-  Learning Python
 -  How to reach me: stanliecerda3@gmail.com
 
 <!---
